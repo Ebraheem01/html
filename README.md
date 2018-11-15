@@ -10,7 +10,7 @@ HTML is a ....
 - Create your base folder structure (css,images, js)
 
 ## Live Link
-- https://nateb228.github.io/html/index.html
+- https://ebraheem01.github.io/html/ 
 
 ## Prevalent Technologies Used
 
