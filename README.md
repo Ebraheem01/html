@@ -1,8 +1,8 @@
 # Intro To HTML
 
-HTML, an Introduction to it's make up...
+HTML, an Introduction to HTML: It's the standard language for creating webistes.
 
-HTML is a ....
+HTML stands for Hyper Text Markup Language.
 
 ## Setting up your workspace
 
@@ -15,7 +15,6 @@ HTML is a ....
 ## Prevalent Technologies Used
 
  - HTML
- - CSS
  
 
 ### Other Technologies Used
@@ -25,8 +24,6 @@ Technologies and Tools Used:
 ```
 Languages:
 
-- CSS
-- SASS
 - HTML
 
 ```
@@ -48,4 +45,4 @@ Tools:
 
 ## Contributors
 
-Nate to the D O and double G - 2018
+Ebraheem Seale - 2018
